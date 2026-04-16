@@ -10,9 +10,8 @@ Go dilinde yazılmış, çeşitli siber güvenlik haber sitelerinden otomatik ol
   - Cyber Security News
   
 - **Chromedp ile dinamik sayfa yükleme** - JavaScript ile yüklenen içeriği destekler
-- **Renklendirme** - Terminal çıktısında renkli başlık, açıklama ve tarih gösterimi
 - **Dosyaya Kaydetme** - Tüm haberler otomatik olarak `SiteName_DD-MM-YYYY.txt` formatında kaydedilir
-- **Esnek Filtreleme:**
+- **Filtreleme:**
   - `--date` - Tarihleri gizler
   - `--description` - Açıklamaları gizler
 
